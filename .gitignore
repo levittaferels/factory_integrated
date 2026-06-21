@@ -1,5 +1,4 @@
-﻿casting_product_defect/
-*.pt
+﻿*.pt
 *.tflite
 *.mp4
 *.jsonl
