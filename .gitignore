@@ -1,0 +1,9 @@
+﻿casting_product_defect/
+*.pt
+*.tflite
+*.mp4
+*.jsonl
+_w1_bench.csv
+__pycache__/
+*.pyc
+.DS_Store
