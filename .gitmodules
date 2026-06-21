@@ -1,0 +1,36 @@
+[submodule "Lab-1-Data-Engineering"]
+	path = data-engineering-lab1-template
+	url = https://github.com/levittaferels/data-engineering-lab1-template
+[submodule "Lab-2-Data-Acquisition-and-Downsampling"]
+	path = lab-2-data-acquisition-and-downsampling-levittaferels
+	url = https://github.com/levittaferels/lab-2-data-acquisition-and-downsampling-levittaferels
+[submodule "Lab-3-Anomaly-Detection"]
+	path = lab-3-anomaly-detection-levittaferels
+	url = https://github.com/levittaferels/lab-3-anomaly-detection-levittaferels
+[submodule "Lab-4-Fault-Tolerance-And-Exponential-Backoff"]
+	path = lab-4-fault-tolerance-and-exponential-backoff-levittaferels
+	url = https://github.com/levittaferels/lab-4-fault-tolerance-and-exponential-backoff-levittaferels
+[submodule "Lab-5-Efficient-Edge-Transport"]
+	path = lab-5-efficient-edge-transport-levittaferels
+	url = https://github.com/levittaferels/lab-5-efficient-edge-transport-levittaferels
+[submodule "Lab-7-Visual-Quality-Control"]
+	path = lab-7-visual-quality-control-qc-levittaferels
+	url = https://github.com/levittaferels/lab-7-visual-quality-control-qc-levittaferels
+[submodule "Lab-9-Vectorized-Image-Data-Pipeline"]
+	path = lab-9-vectorized-image-data-pipeline-levittaferels
+	url = https://github.com/levittaferels/lab-9-vectorized-image-data-pipeline-levittaferels
+[submodule "Lab-10-Interpolation-Benchmarking"]
+	path = Lab-10-Interpolation-Benchmarking
+	url = https://github.com/levittaferels/Lab-10-Interpolation-Benchmarking
+[submodule "Lab-11-End-to-End-Edge-Inference"]
+	path = Lab-11-End-to-End-Edge-Inference
+	url = https://github.com/levittaferels/Lab-11-End-to-End-Edge-Inference
+[submodule "Lab-12-Object-Detection-The-NMS-Latency-Tax"]
+	path = Lab-12-Object-Detection-The-NMS-Latency-Tax
+	url = https://github.com/levittaferels/Lab-12-Object-Detection-The-NMS-Latency-Tax
+[submodule "Lab-13-Multi-threading-Frame-Dropping"]
+	path = Lab-13-Multi-threading-Frame-Dropping-in-Codespaces
+	url = https://github.com/levittaferels/Lab-13-Multi-threading-Frame-Dropping-in-Codespaces
+[submodule "Lab-14-Heterogeneous-Fusion-Cloud-Strategy"]
+	path = Lab-14-Heterogeneous-Fusion-Cloud-Strategy
+	url = https://github.com/levittaferels/Lab-14-Heterogeneous-Fusion-Cloud-Strategy
